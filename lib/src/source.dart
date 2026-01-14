@@ -1,10 +1,10 @@
-import 'package:flutter/material.dart';
 import 'package:flutter/gestures.dart';
+import 'package:flutter/material.dart';
 
 import './constants.dart';
 
 class WebSmoothScroll extends StatefulWidget {
-  /// Scroll Controller for controlling the scroll behaviour manually
+  /// Scroll Controller for controlling the scroll behavior manually
   /// so we can animate to next scrolled position and avoid the jerky movement
   /// of default scroll
   final ScrollController controller;
