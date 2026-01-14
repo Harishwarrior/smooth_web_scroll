@@ -1,12 +1,12 @@
 name: web_smooth_scroll
 description: A package to help you provide a smoother and aesthetic scroll feeling.
 version: 2.0.0
-homepage: https://github.com/mayurnile/web_smooth_scroll
+homepage: https://github.com/harishwarrior/smooth_web_scroll
 license: MIT
 
 environment:
   sdk: ">=2.17.0 <4.0.0"
-  flutter: ">=1.20.0"
+  flutter: ">=3.0.0"
 
 dependencies:
   flutter:
@@ -15,7 +15,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.1
+  flutter_lints: ^6.0.0
 
 flutter:
   plugin: 
